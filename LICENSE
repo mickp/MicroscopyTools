@@ -1,0 +1,4 @@
+This software includes third party open source software components:
+    Mrc.py, distributed under the BSD license (see LICENSE-BSD).
+
+All other components are distributed under the GNU GPLv3 (see LICENSE-GPL), unless otherwise stated in the source.
