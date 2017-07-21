@@ -9,3 +9,6 @@ Calculate SI OTFs from a bead stack with N illumination angles.
 
 **RotatorCalibration**  *Mick Phillips*  
 Reduces cockpit RotatorSweep output to transmission profiles.
+
+**DefocusWithDM**  *Mick Phillips and Martin Booth*  
+Calculate the deformable mirror stroke length required for defocus.
